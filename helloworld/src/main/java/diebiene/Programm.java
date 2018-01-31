@@ -2,6 +2,7 @@ package diebiene;
 
 import javax.swing.*;
 import java.awt.*;
+import java.net.ServerSocket;
 
 public class Programm {
     public static void main(String args[]){
@@ -11,7 +12,6 @@ public class Programm {
         // OIDA!
         // FEI!
         new Wiese();
-
 
     }
 }
